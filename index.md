@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Kalium's personal page
 
-You can use the [editor on GitHub](https://github.com/Dominic-Cooper/kalium.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+欢迎来到一只钾离子的个人主页，谢谢你来，我满心欢喜。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Kalium</h1>
+      <p><b>中国人民大学信息学院</b></p>
+      <p><b>邮箱：aloha_mail@163.com</b></p>
+      <p><b>地址：北京市海淀区中关村大街59号   邮编100089</b></p>
+    </td>
+    <td width="25%">
+      <img src="/IMG_20190921_194229.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dominic-Cooper/kalium.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 学习经历与荣誉
+- 2019.9——present   中国人民大学
+- 2016.9——2019.6    光山县第二高级中学
+- 2013.9——2016.6    光山县司马光中学
+- 2007.9——2013.6    光山县第一完全小学
