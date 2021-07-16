@@ -7,7 +7,7 @@ Thanks for your coming, I'm filled with joy.
       <h1>Kalium</h1>
       <p><b>School of Info, Renmin Univ. of China</b></p>
       <p><b>Mail：aloha_mail@163.com</b></p>
-      <p><b>Address：Renmin Univ. of China, No.59 Zhongguancun Street, Haidian District, Beijing 100872</b></p>
+      <p><b>Address：No.59 Zhongguancun Street, Haidian District, Beijing</b></p>
     </td>
     <td width="25%">
       <img src="/IMG_20190921_194229.jpg" width="100%">     
@@ -16,9 +16,9 @@ Thanks for your coming, I'm filled with joy.
 </table>
 
 ### Education
-#### 2019.9——present, Renmin Univ. of China
+#### 2019.9 - present, Renmin Univ. of China
 
-#### 2016.9——2019.6, GuangShan No.2 senior school
+#### 2016.9 - 2019.6, GuangShan No.2 senior school
 
 
 ### Other Links
