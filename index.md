@@ -1,4 +1,4 @@
-## Welcome to Kalium's personal page
+## Welcome.
 Thanks for your coming, I'm filled with joy.
 
 <table border="0">
@@ -10,26 +10,26 @@ Thanks for your coming, I'm filled with joy.
       <p><b>Address：No.59 Zhongguancun Street, Haidian, Beijing</b></p>
     </td>
     <td width="25%">
-      <img src="/IMG_20190921_194229.jpg" width="100%">     
+      <img src="/Users/cooper/Desktop/WechatIMG32.jpeg" width="100%">     
     </td>
   </tr>
 </table>
 
+
 ### Education
-#### 2019.9 - present, Renmin Univ. of China
-#### 2016.9 - 2019.6, GuangShan No.2 senior school
+#### 2019.09 - present   Renmin Univ. of China
+Study in [School of Infomation](http://info.ruc.edu.cn/), major in computer science and technology. 
+
+
 
 ### Experiences
-#### 2022.02-2022.03 24<sup>st</sup>Beijing Winter Olympics Games
-Volunteer of Technical Field in CTS, Member of Resident Support Team
-#### 2022.11-2023.02 Zhihu
-Community Business Division, Strategic Operations Intern
+#### 2022.02 - 2022.03   24<sup>st</sup>Beijing Winter Olympics Games
+Volunteer of technical field in CTS, member of resident support team.
+#### 2022.11 - 2023.02   Zhihu
+Community Business Division, Strategic Operations Intern.
 
 
-#### 
 
 ### Other Links
   - [Zhihu](https://zhihu.com/people/alohakalium)
   - [bilibili](https://b23.tv/Sple1b)
-  - [WeChat Official Account](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI1NjMzMjg1OQ==&scene=124&uin=&key=&devicetype=Windows+10+x64&version=63010043&lang=zh_CN&a8scene=7&fontgear=2)
-
