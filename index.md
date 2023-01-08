@@ -10,7 +10,7 @@ Thanks for your coming, I'm filled with joy.
       <p><b>Address：No.59 Zhongguancun Street, Haidian, Beijing</b></p>
     </td>
     <td width="25%">
-      <img src="/Users/cooper/Desktop/WechatIMG32.jpeg" width="100%">     
+      <img src="/WechatIMG32.jpeg" width="100%">     
     </td>
   </tr>
 </table>
