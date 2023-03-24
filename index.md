@@ -25,6 +25,12 @@ Study in School of Infomation, major in computer science and technology.
 <br>
 
 ### **Experiences**
+<div style="float:left;"><b>Middle School Affiliated to Renmin Univ.</b></div>
+<div style="float:right;"><b>2023.3 - 2023.5</b></div>
+<br>
+Senior Second Grade Group, Class Advisior Intern.
+<br>
+
 <div style="float:left;"><b>Zhihu Inc. (NYSE: ZH and HKEX: 2390)</b></div>
 <div style="float:right;"><b>2022.11 - 2023.3</b></div>
 <br>
